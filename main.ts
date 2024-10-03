@@ -11,7 +11,7 @@ basic.forever(function () {
             . # . . .
             . . # . .
             `)
-    } else if (input.compassHeading() > 135 && input.compassHeading() < 180) {
+    } else if (input.compassHeading() > 135 && input.compassHeading() < 225) {
         basic.showLeds(`
             . . # . .
             . . # . .
